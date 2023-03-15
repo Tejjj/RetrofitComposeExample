@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserCompose</string>
+    <string name="user">User</string>
+    <string name="error_loading_failed">Failed To Load </string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+</resources>
